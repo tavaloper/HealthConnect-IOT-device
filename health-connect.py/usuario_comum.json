@@ -1,0 +1,125 @@
+{
+  "12345678900": {
+    "nome": "Marina Oliveira",
+    "idade": 20,
+    "endereco": {
+      "cep": "01310-200",
+      "logradouro": "Avenida Paulista",
+      "complemento": "de 1512 a 2132 - lado par",
+      "bairro": "Bela Vista",
+      "localidade": "",
+      "uf": "SP",
+      "ibge": "3550308",
+      "gia": "1004",
+      "ddd": "11",
+      "siafi": "7107"
+    },
+    "celular": "11987654321",
+    "senha": "12345678",
+    "ocorrencias_ativas": {
+      "descricao_ocorrencia": "Risco de HIPOTERMIA",
+      "status": "ativa"
+    },
+    "ocorrencias": {
+      "1": {
+        "nome_medico": "Camila Lima",
+        "id_medico": "1",
+        "descricao_ocorrencia": "Acidente de carro",
+        "status": "solucionada"
+      },
+      "2": {
+        "nome_medico": "Camila Lima",
+        "id_medico": "1",
+        "descricao_ocorrencia": "Cai da escada",
+        "status": "solucionada"
+      },
+      "3": {
+        "nome_medico": "Camila Lima",
+        "id_medico": "1",
+        "descricao_ocorrencia": "Risco de HIPOTERMIA",
+        "status": "solucionada"
+      },
+      "4": {
+        "nome_medico": "Camila Lima",
+        "id_medico": "1",
+        "descricao_ocorrencia": "Estou sentindo muito frio",
+        "status": "solucionada"
+      },
+      "5": {
+        "nome_medico": "Camila Lima",
+        "id_medico": "1",
+        "descricao_ocorrencia": "FEBRE ALTA!",
+        "status": "solucionada"
+      }
+    }
+  },
+  "45678901234": {
+    "nome": "Rafael Santos",
+    "idade": 36,
+    "endereco": {
+      "cep": "04210-000",
+      "logradouro": "",
+      "complemento": "",
+      "bairro": "Ipiranga",
+      "localidade": "",
+      "uf": "SP",
+      "ibge": "3550308",
+      "gia": "1004",
+      "ddd": "11",
+      "siafi": "7107"
+    },
+    "celular": "11987651098",
+    "senha": "12345678",
+    "ocorrencias_ativas": {
+      "descricao_ocorrencia": "ESTADO FEBRIL",
+      "status": "ativa"
+    },
+    "ocorrencias": {}
+  },
+  "12345678909": {
+    "nome": "Ana Silva",
+    "idade": 34,
+    "endereco": {
+      "cep": "08710-900",
+      "logradouro": "Rua Coronel Souza Franco",
+      "complemento": "440",
+      "bairro": "Centro",
+      "localidade": "Mogi das Cruzes",
+      "uf": "SP",
+      "ibge": "3530607",
+      "gia": "4546",
+      "ddd": "11",
+      "siafi": "6713"
+    },
+    "celular": "11987654321",
+    "senha": "12345678",
+    "ocorrencias_ativas": {
+      "descricao_ocorrencia": "RISCO DE FEBRE",
+      "status": "ativa"
+    },
+    "ocorrencias": {}
+  },
+  "98765432100": {
+    "nome": "Lucas Oliveira Lima",
+    "idade": 18,
+    "endereco": {
+      "cep": "01046-010",
+      "logradouro": "Avenida Ipiranga",
+      "complemento": "",
+      "bairro": "",
+      "localidade": "",
+      "uf": "SP",
+      "ibge": "3550308",
+      "gia": "1004",
+      "ddd": "11",
+      "siafi": "7107"
+    },
+    "celular": "11998765432",
+    "senha": "12345678",
+    "ocorrencias_ativas": {
+      "descricao_ocorrencia": "FEBRE ALTA!",
+      "status": "ativa"
+    },
+    "ocorrencias": {}
+  }
+}
