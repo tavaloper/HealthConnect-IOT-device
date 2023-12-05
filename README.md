@@ -42,7 +42,7 @@
 
 
 # HealthConnect.py
-[**Clique Aqui**](https://youtu.be/bQw-vOarQqo) para acessar o video de demonstracao
+[**Clique Aqui**](https://youtu.be/bQw-vOarQqo) para acessar o video de demonstracao do software em python
 
 **Execute o arquivo tela_inicial.py**
 
